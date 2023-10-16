@@ -1,0 +1,3 @@
+Model: Arduino Nano
+Processor: Old Bootloader
+Driver: CH340

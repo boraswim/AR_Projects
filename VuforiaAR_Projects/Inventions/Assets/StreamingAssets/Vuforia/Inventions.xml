@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tesla" size="10.000000 9.459459" />
+    <ImageTarget name="wheel" size="10.000000 9.587156" />
+    <ImageTarget name="sundial" size="10.000000 10.157895" />
+    <ImageTarget name="computer" size="10.000000 10.057803" />
+    <ImageTarget name="lightbulb" size="10.000000 9.715302" />
+    <ImageTarget name="telephone" size="10.000000 9.877300" />
+  </Tracking>
+</QCARConfig>

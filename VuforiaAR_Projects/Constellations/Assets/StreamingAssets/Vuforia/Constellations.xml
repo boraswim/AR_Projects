@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="orion" size="10.000000 10.000000" />
+    <ImageTarget name="cancer" size="10.000000 10.000000" />
+    <ImageTarget name="saggitarius" size="10.000000 10.000000" />
+    <ImageTarget name="draco" size="10.000000 10.000000" />
+    <ImageTarget name="ursamajor" size="10.000000 10.030581" />
+    <ImageTarget name="littlebear" size="10.000000 10.000000" />
+    <ImageTarget name="telescopesattelite" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>
